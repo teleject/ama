@@ -15,3 +15,5 @@ I'm an independent fullstack developer primarily writing JavaScript. I teach, sp
 I'm [@WesBos](http://WesBos.com) on twitter, I blog at [wesbos.com](http://wesbos.com). 
 
 I'm the author of the [Sublime Text Power User](http://SublimeTextBook.com) which has sold over 5,000 copies, I created [React For Beginners](https://ReactForBeginners.com) which has over 5,300 students  and I've produced the free video series [commandlinepoweruser.com](http://commandlinepoweruser.com/), [Flexbox.io](http://Flexbox.io), [Mastering Markdown](http://MasteringMarkdown.com) and [Learn Redux](https://LearnRedux.com)
+
+You can also check my [AMA session on Hashnode](https://hashnode.com/ama/with-wes-bos-cioe2quzk014lru53p29acmt3), which I've hosted on 31st May, 2016.
